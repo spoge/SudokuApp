@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="square_empty">#FFFFFF</color>
+    <color name="square_border">#000000</color>
+    <color name="sector_border">#000000</color>
+    <color name="button_inner">#F0F0F0</color>
+    <color name="button_outer">#DCDCDC</color>
+    <color name="numbers_background">#F0F0F0</color>
+</resources>
