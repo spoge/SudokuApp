@@ -24,22 +24,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_00" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_01" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_02" />
 
             </LinearLayout>
@@ -49,22 +55,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_10" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_11" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_12" />
             </LinearLayout>
 
@@ -73,22 +85,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_20" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_21" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_22" />
             </LinearLayout>
         </LinearLayout>
@@ -106,22 +124,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_03" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_04" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_05" />
             </LinearLayout>
 
@@ -130,22 +154,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_13" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_14" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_15" />
             </LinearLayout>
 
@@ -154,22 +184,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_23" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_24" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_25" />
             </LinearLayout>
         </LinearLayout>
@@ -187,22 +223,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_06" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_07" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_08" />
             </LinearLayout>
 
@@ -211,22 +253,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_16" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_17" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_18" />
             </LinearLayout>
 
@@ -235,22 +283,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_26" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_27" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_28" />
             </LinearLayout>
         </LinearLayout>
@@ -274,22 +328,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_30" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_31" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_32" />
 
             </LinearLayout>
@@ -299,22 +359,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_40" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_41" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_42" />
             </LinearLayout>
 
@@ -323,22 +389,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_50" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_51" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_52" />
             </LinearLayout>
         </LinearLayout>
@@ -356,22 +428,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_33" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_34" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_35" />
             </LinearLayout>
 
@@ -380,22 +458,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_43" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_44" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_45" />
             </LinearLayout>
 
@@ -404,22 +488,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_53" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_54" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_55" />
             </LinearLayout>
         </LinearLayout>
@@ -437,22 +527,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_36" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_37" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_38" />
             </LinearLayout>
 
@@ -461,22 +557,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_46" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_47" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_48" />
             </LinearLayout>
 
@@ -485,22 +587,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_56" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_57" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_58" />
             </LinearLayout>
         </LinearLayout>
@@ -524,22 +632,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_60" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_61" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_62" />
 
             </LinearLayout>
@@ -549,22 +663,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_70" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_71" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_72" />
             </LinearLayout>
 
@@ -573,22 +693,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_80" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_81" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_82" />
             </LinearLayout>
         </LinearLayout>
@@ -606,22 +732,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_63" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_64" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_65" />
             </LinearLayout>
 
@@ -630,22 +762,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_73" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_74" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_75" />
             </LinearLayout>
 
@@ -654,22 +792,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_83" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_84" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_85" />
             </LinearLayout>
         </LinearLayout>
@@ -687,22 +831,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_66" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_67" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_68" />
             </LinearLayout>
 
@@ -711,22 +861,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_76" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_77" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_78" />
             </LinearLayout>
 
@@ -735,22 +891,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" >
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_86" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_87" />
 
-                <ImageView
+                <TextView
                     android:background="@drawable/square"
                     android:layout_width="@dimen/square_size"
                     android:layout_height="@dimen/square_size"
+                    android:textSize="@dimen/square_text_size"
+                    android:gravity="center"
                     android:id="@+id/square_88" />
             </LinearLayout>
         </LinearLayout>

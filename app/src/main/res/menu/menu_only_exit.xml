@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="no.hioa.sudokuapp.HighscoreActivity">
+
+    <item
+        android:id="@+id/exit_action"
+        android:title="@string/exit_game"
+        android:orderInCategory="100"
+        android:showAsAction="always" />
+</menu>

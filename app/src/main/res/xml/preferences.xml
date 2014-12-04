@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/settings">
+
+        <CheckBoxPreference
+            android:key="cheat_preference"
+            android:title="@string/cheat_mode_title"
+            android:summary="@string/cheat_mode_summary" />
+
+        <ListPreference
+            android:key="language_preferance"
+            android:title="@string/languages"
+            android:entries="@array/language"
+            android:entryValues="@array/languageData"/>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -3,39 +3,73 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:background="@color/numbers_background">
+    android:layout_height="wrap_content">
 
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:padding="3dp" >
 
         <Button
+            android:background="@drawable/square_mode"
             android:layout_width="@dimen/button_width"
             android:layout_height="@dimen/button_height"
             android:text=""
-            android:id="@+id/num_button_0" />
+            android:onClick="onButtonModeClick"
+            android:id="@+id/button_mode" />
+
+        <TextView
+            android:layout_width="5dp"
+            android:layout_height="5dp" />
 
         <Button
+            android:background="@drawable/button"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:text="0"
+            android:textColor="@color/invisible"
+            android:id="@+id/num_button_0" />
+
+        <TextView
+            android:layout_width="@dimen/button_space"
+            android:layout_height="@dimen/button_space" />
+
+        <Button
+            android:background="@drawable/button"
             android:layout_width="@dimen/button_width"
             android:layout_height="@dimen/button_height"
             android:text="1"
             android:id="@+id/num_button_1" />
 
+        <TextView
+            android:layout_width="@dimen/button_space"
+            android:layout_height="@dimen/button_space" />
+
         <Button
+            android:background="@drawable/button"
             android:layout_width="@dimen/button_width"
             android:layout_height="@dimen/button_height"
             android:text="2"
             android:id="@+id/num_button_2" />
 
+        <TextView
+            android:layout_width="@dimen/button_space"
+            android:layout_height="@dimen/button_space" />
+
         <Button
+            android:background="@drawable/button"
             android:layout_width="@dimen/button_width"
             android:layout_height="@dimen/button_height"
             android:text="3"
             android:id="@+id/num_button_3" />
 
+        <TextView
+            android:layout_width="@dimen/button_space"
+            android:layout_height="@dimen/button_space" />
+
         <Button
+            android:background="@drawable/button"
             android:layout_width="@dimen/button_width"
             android:layout_height="@dimen/button_height"
             android:text="4"
@@ -46,36 +80,72 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:padding="3dp">
 
         <Button
+            android:background="@drawable/button"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:text="@string/hint"
+            android:textSize="15sp"
+            android:onClick="onButtonHintClick"
+            android:id="@+id/button_solve" />
+
+        <TextView
+            android:layout_width="5dp"
+            android:layout_height="5dp" />
+
+        <Button
+            android:background="@drawable/button"
             android:layout_width="@dimen/button_width"
             android:layout_height="@dimen/button_height"
             android:text="5"
             android:id="@+id/num_button_5" />
 
+        <TextView
+            android:layout_width="@dimen/button_space"
+            android:layout_height="@dimen/button_space" />
+
         <Button
+            android:background="@drawable/button"
             android:layout_width="@dimen/button_width"
             android:layout_height="@dimen/button_height"
             android:text="6"
             android:id="@+id/num_button_6" />
 
+        <TextView
+            android:layout_width="@dimen/button_space"
+            android:layout_height="@dimen/button_space" />
+
         <Button
+            android:background="@drawable/button"
             android:layout_width="@dimen/button_width"
             android:layout_height="@dimen/button_height"
             android:text="7"
             android:id="@+id/num_button_7" />
 
+        <TextView
+            android:layout_width="@dimen/button_space"
+            android:layout_height="@dimen/button_space" />
+
         <Button
+            android:background="@drawable/button"
             android:layout_width="@dimen/button_width"
             android:layout_height="@dimen/button_height"
             android:text="8"
             android:id="@+id/num_button_8" />
 
+        <TextView
+            android:layout_width="@dimen/button_space"
+            android:layout_height="@dimen/button_space" />
+
         <Button
+            android:background="@drawable/button"
             android:layout_width="@dimen/button_width"
             android:layout_height="@dimen/button_height"
             android:text="9"
+
             android:id="@+id/num_button_9" />
 
     </LinearLayout>

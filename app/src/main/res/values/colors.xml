@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="square_empty">#FFFFFF</color>
+    <color name="square_highlighted">#DDE6F5FF</color>
     <color name="square_border">#000000</color>
+    <color name="square_border_selected">#FF0000</color>
+    <color name="square_text">#000000</color>
+    <color name="square_text_dimmed">#666666</color>
+    <color name="square_text_error">#FF0000</color>
     <color name="sector_border">#000000</color>
-    <color name="button_inner">#F0F0F0</color>
-    <color name="button_outer">#DCDCDC</color>
+
+    <color name="button_border">#000000</color>
+    <color name="button_border_selected">#80FF0000</color>
+
+    <color name="button_start">#BBF0F0F0</color>
+    <color name="button_end">#BBDCDCDC</color>
+    <color name="button_center">#BBCCCCCC</color>
+
     <color name="numbers_background">#F0F0F0</color>
+    <color name="menu_background">#BB000000</color>
+
+    <color name="invisible">#00000000</color>
+
+    <color name="white">#FFFFFF</color>
 </resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sudoku</string>
+    <string name="title_activity_menu">Sudoku</string>
+    <string name="title_activity_highscore">Highscore - Top 10</string>
+    <string name="title_activity_rules">Rules</string>
+    <string name="new_game">New Game</string>
+    <string name="create_sudoku">Create Sudoku</string>
+    <string name="save_sudoku">Save Sudoku</string>
+    <string name="rules">Rules</string>
+    <string name="settings">Settings</string>
+    <string name="exit_game">Exit</string>
+    <string name="solve">Solve</string>
+    <string name="toggle_solve">Toggle Solution</string>
+    <string name="hint">Hint</string>
+    <string name="highscore">Highscore</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="default_score">Score: 10000</string>
+    <string name="new_game_dialog">Do you want to start another game?</string>
+    <string name="save_sudoku_dialog">Do you want to save this sudoku?</string>
+    <string name="hint_dialog">Do you want to reveal the square?</string>
+    <string name="solve_dialog">Do you want to solve the sudoku?</string>
+    <string name="enter_name">Enter name</string>
+    <string name="back_dialog">Are you sure you want to quit the game?</string>
+    <string name="exit_dialog">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_normal">Normal</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="difficulty_impossible">Impossible</string>
+    <string name="user_made">User-made</string>
+    <string name="solution_nonexist">A solution does not currently exist!</string>
+    <string name="name_empty">You must enter a name!</string>
+    <string name="name_too_long">Name can\'t be over 10 characters!</string>
+    <string name="sudoku_notfound">Sudoku not found!</string>
+    <string name="sudoku_notfound_difficulty">There are no sudoku in this category!</string>
+    <string name="sudoku_complete_complain">You can\'t save a complete sudoku!</string>
+    <string name="sudoku_already_solved_complain">The sudoku is already solved!</string>
+    <string name="sudoku_not_enough_complain">The sudoku have too few numbers!</string>
+    <string name="sudoku_not_legal_complain">The sudoku is not in a legal state!</string>
+    <string name="sudoku_selectsquare_complaint">You must select a square!</string>
+    <string name="sudoku_selectemptysquare_complaint">You must select an empty square!</string>
+    <string name="how_to_play">How to play</string>
+    <string name="rules_1">The rules of sudoku is relatively simple, though solving one can prove quite a challenge.</string>
+    <string name="rules_2">The classic sudoku looks something like this:</string>
+    <string name="rules_3">A 9x9 board, consisting of 9 3x3 squares, for a total of 81 smaller squares. Some numbers already placed in some of the squares.</string>
+    <string name="rules_4">The goal is to fill the numbers 1 to 9 in the empty squares. But the number can only appear once in each row, column and 3x3 square.</string>
+    <string name="rules_5">To solve a sudoku, you choose a square, from the sudoku, and a number from here:</string>
+    <string name="rules_6">There are 2 modes for placing numbers in the sudoku. One mode, places the number when you click the square. The other mode, places the number in the already selected square when you click a number.</string>
+    <string name="rules_7">You switch between the input-modes when you click the button above.</string>
+    <string name="title_activity_sudoku_create">Create Sudoku</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="languages">Languages</string>
+    <string name="cheat_mode_title">Cheat-mode</string>
+    <string name="cheat_mode_summary">Toggle to save highscore, even though you cheated</string>
+
+</resources>

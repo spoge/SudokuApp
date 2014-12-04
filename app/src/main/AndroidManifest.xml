@@ -8,13 +8,39 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".MainActivity"
+            android:name="no.hioa.sudokuapp.MenuActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="no.hioa.sudokuapp.SudokuActivity"
+            android:label="@string/app_name"
+            android:parentActivityName="no.hioa.sudokuapp.MenuActivity" >
+        </activity>
+        <activity
+            android:name="no.hioa.sudokuapp.RulesActivity"
+            android:label="@string/title_activity_rules"
+            android:parentActivityName="no.hioa.sudokuapp.MenuActivity" >
+        </activity>
+        <activity
+            android:name="no.hioa.sudokuapp.HighscoreActivity"
+            android:label="@string/title_activity_highscore"
+            android:screenOrientation="sensorPortrait"
+            android:parentActivityName="no.hioa.sudokuapp.SudokuActivity" >
+        </activity>
+        <activity
+            android:name="no.hioa.sudokuapp.SudokuCreateActivity"
+            android:label="@string/title_activity_sudoku_create"
+            android:parentActivityName=".MenuActivity">
+        </activity>
+        <activity
+            android:name="no.hioa.sudokuapp.SetPreferencesActivity"
+            android:label="@string/settings"
+            android:parentActivityName=".MenuActivity">
         </activity>
     </application>
 

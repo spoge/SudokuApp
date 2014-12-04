@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+    <item android:id="@+id/new_game"
+        android:title="@string/new_game"
+        android:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/new_easy_game"
+                android:title="@string/difficulty_easy" />
+            <item
+                android:id="@+id/new_normal_game"
+                android:title="@string/difficulty_normal" />
+            <item
+                android:id="@+id/new_hard_game"
+                android:title="@string/difficulty_hard" />
+            <item
+                android:id="@+id/new_impossible_game"
+                android:title="@string/difficulty_impossible"/>
+            <item
+                android:id="@+id/user_made_game"
+                android:title="@string/user_made"/>
+        </menu>
+    </item>
+    <item android:id="@+id/solve"
+        android:title="@string/solve"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/highscore"
+        android:title="@string/highscore"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/exit"
+        android:title="@string/exit_game"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

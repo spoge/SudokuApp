@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="no.hioa.sudokuapp.SudokuCreateActivity">
+
+    <item
+        android:id="@+id/toggle_solve"
+        android:title="@string/toggle_solve"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/save_sudoku"
+        android:title="@string/save_sudoku"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit_game"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
